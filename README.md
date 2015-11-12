@@ -1,1 +1,1 @@
-# wp-sugar
+# WP Sugar WordPress Framework
