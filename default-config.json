@@ -1,0 +1,17 @@
+{
+    "custom_types": [
+        {
+            "name": "text_blocks",
+            "params": {
+                "labels": { "name": "Текстовые блоки", "singular_name": "Текстовый блок", "menu_name": "Текстовые блоки" },
+                "description": "Текстовые блоки",
+                "rewrite": { "slug": "text_blocks", "with_front": false }
+            },
+            "custom_fields": [
+                { "name": "Краткое описание", "desc": "", "id": "preview_text", "type": "textarea", "std": "" },
+                { "name": "Ссылка", "desc": "", "id": "link", "type": "text", "std": "" }
+            ]
+        }
+    ],
+    "options": []
+}
